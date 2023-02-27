@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "losowanie", "losowanie\losowanie.csproj", "{3B73EF59-40E5-4E2D-95A0-4B97282B928B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B73EF59-40E5-4E2D-95A0-4B97282B928B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B73EF59-40E5-4E2D-95A0-4B97282B928B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B73EF59-40E5-4E2D-95A0-4B97282B928B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B73EF59-40E5-4E2D-95A0-4B97282B928B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0AB6354-5C56-4D27-ABD1-F2C6B0589237}
+	EndGlobalSection
+EndGlobal
